@@ -10,3 +10,5 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 Fork world Fork all! @github
 
+Make best use of what you have- Github is that which you have
+
